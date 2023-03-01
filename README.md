@@ -5,7 +5,7 @@ This project is a small demonstration of an algorithm that I spent a long time w
 
  The map which the player and monster are put into can be modified by changing the values of a 0 to a 1 or vice versa. It is imperative that no extra spaces or values be entered. Map size and generation are augmentable as defined in the first few functions.
 
-The algorithm takes obstacles into account during its search in order to find the most efficient path to reach the player, the speed at which the monster moves can be modified by increasing or decreasing the second input to the function called on line 215.
+The algorithm takes obstacles into account during its search in order to find the most efficient path to reach the player, the speed at which the monster moves can be modified by increasing or decreasing the second input to the function called on line 216.
 
 CONTROLS:
 
