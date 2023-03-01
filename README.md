@@ -18,3 +18,5 @@ a - Left
 s - Down
 
 d - Right
+
+** If  you are having trouble loading the file due to pathfinding issues, please consult the loadMap() function. Find the following: theMapeFile = open(os.path.dirname(__file__) + '\\pathfindingmap.txt', 'r') And replace the line with theMapeFile = open('*insert the file directory of pathfindingmap.txt and pathfindingAI.py here*, 'r').
