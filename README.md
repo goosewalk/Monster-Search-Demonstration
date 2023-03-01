@@ -10,10 +10,10 @@ The algorithm takes obstacles into account during its search in order to find th
 CONTROLS:
 
 q - Close the window
-Arrow keys to move:
-Up - Up
-Down - Down
-Left - Left
-Right - Right
+
+w - Up
+a - Left
+s - Down
+d - Right
 
 
