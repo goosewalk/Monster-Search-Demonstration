@@ -1,7 +1,7 @@
 # Monster-Search-Demonstration
 IN ORDER TO RUN THE PROGRAM IT IS NECESSARY THAT BOTH THE PATHFINDINGAI.PY AND PATHFINDINGMAP.TXT FILES ARE IN THE SAME FOLDER.
 
-This project is a small demonstration of an algorithm that I spent a long time working on. The "game" is quite simple, there is a player and a monster who are both placed in a confined area, the monster will continuously chase the player until they are on top of each other where it will then stop.
+This project is a small demonstration of an algorithm that I worked hard on. The "game" is quite simple, there is a player and a monster who are both placed in a confined area, the monster will continuously chase the player until they are on top of each other where it will then stop.
 
  The map which the player and monster are put into can be modified by changing the values of a 0 to a 1 or vice versa. It is imperative that no extra spaces or values be entered. Map size and generation are augmentable as defined in the first few functions.
 
