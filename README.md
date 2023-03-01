@@ -12,8 +12,9 @@ CONTROLS:
 q - Close the window
 
 w - Up
+
 a - Left
+
 s - Down
+
 d - Right
-
-
